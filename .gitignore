@@ -90,3 +90,6 @@ ENV/
 
 # PyCharm related
 .idea/
+.DS_Store
+examples/.DS_Store
+examples/nips17_adversarial_competition/.DS_Store
