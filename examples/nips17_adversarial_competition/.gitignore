@@ -2,3 +2,6 @@
 *.ckpt
 # ignore dataset images
 dataset/images
+
+# tmp
+tmp/
